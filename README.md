@@ -11,9 +11,7 @@ An end-to-end Machine Learning classification project designed to analyze patien
 
 ## 🔄 **Machine Learning Lifecycle Workflow**
 
-<p align="center">
-  <img src="image_53f5a4.jpg" alt="Machine Learning Workflow Diagram" width="550">
-</p>
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/2d20effb-65f0-4ffb-9658-a5b5cf003b46" />
 
 ---
 
